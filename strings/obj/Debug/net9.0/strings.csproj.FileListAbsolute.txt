@@ -1,0 +1,15 @@
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\bin\Debug\net9.0\strings.exe
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\bin\Debug\net9.0\strings.deps.json
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\bin\Debug\net9.0\strings.runtimeconfig.json
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\bin\Debug\net9.0\strings.dll
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\bin\Debug\net9.0\strings.pdb
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\obj\Debug\net9.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\obj\Debug\net9.0\strings.AssemblyInfoInputs.cache
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\obj\Debug\net9.0\strings.AssemblyInfo.cs
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\obj\Debug\net9.0\strings.csproj.CoreCompileInputs.cache
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\obj\Debug\net9.0\strings.sourcelink.json
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\obj\Debug\net9.0\strings.dll
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\obj\Debug\net9.0\refint\strings.dll
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\obj\Debug\net9.0\strings.pdb
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\obj\Debug\net9.0\strings.genruntimeconfig.cache
+C:\Users\wedit\Desktop\C#\c-sharp-basics\strings\obj\Debug\net9.0\ref\strings.dll
