@@ -9,6 +9,24 @@ foreach (string name in names){
 
 int[] numbers = {1,2,3,4,5,6};
 
-foreach(int num in numbers){
+foreach(int num in numbers)
+{
     Console.WriteLine(num);
+}
+
+
+Console.WriteLine("\nDoWhile loop");
+int n = 4;
+do
+{
+    Console.WriteLine(n);
+    n--;
+}while(n > 0);
+
+
+Console.WriteLine("\n\nWhile Loop");
+int a = 3;
+while(a >=0){
+    Console.WriteLine(a);
+    a--;
 }
