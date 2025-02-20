@@ -1,0 +1,15 @@
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\bin\Debug\net9.0\pattern_matching_switch.exe
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\bin\Debug\net9.0\pattern_matching_switch.deps.json
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\bin\Debug\net9.0\pattern_matching_switch.runtimeconfig.json
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\bin\Debug\net9.0\pattern_matching_switch.dll
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\bin\Debug\net9.0\pattern_matching_switch.pdb
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\obj\Debug\net9.0\pattern_matching_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\obj\Debug\net9.0\pattern_matching_switch.AssemblyInfoInputs.cache
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\obj\Debug\net9.0\pattern_matching_switch.AssemblyInfo.cs
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\obj\Debug\net9.0\pattern_matching_switch.csproj.CoreCompileInputs.cache
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\obj\Debug\net9.0\pattern_matching_switch.sourcelink.json
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\obj\Debug\net9.0\pattern_matching_switch.dll
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\obj\Debug\net9.0\refint\pattern_matching_switch.dll
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\obj\Debug\net9.0\pattern_matching_switch.pdb
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\obj\Debug\net9.0\pattern_matching_switch.genruntimeconfig.cache
+C:\Users\wedit\Desktop\C#\c-sharp-basics\pattern_matching_switch\obj\Debug\net9.0\ref\pattern_matching_switch.dll
