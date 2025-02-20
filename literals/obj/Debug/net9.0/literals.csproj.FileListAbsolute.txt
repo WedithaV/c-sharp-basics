@@ -1,0 +1,15 @@
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\bin\Debug\net9.0\literals.exe
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\bin\Debug\net9.0\literals.deps.json
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\bin\Debug\net9.0\literals.runtimeconfig.json
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\bin\Debug\net9.0\literals.dll
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\bin\Debug\net9.0\literals.pdb
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\obj\Debug\net9.0\literals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\obj\Debug\net9.0\literals.AssemblyInfoInputs.cache
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\obj\Debug\net9.0\literals.AssemblyInfo.cs
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\obj\Debug\net9.0\literals.csproj.CoreCompileInputs.cache
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\obj\Debug\net9.0\literals.sourcelink.json
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\obj\Debug\net9.0\literals.dll
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\obj\Debug\net9.0\refint\literals.dll
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\obj\Debug\net9.0\literals.pdb
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\obj\Debug\net9.0\literals.genruntimeconfig.cache
+C:\Users\wedit\Desktop\C#\c-sharp-basics\literals\obj\Debug\net9.0\ref\literals.dll
