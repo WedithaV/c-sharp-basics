@@ -63,3 +63,28 @@ string CheckGrade(int m) => m switch{
 };
 
 Console.WriteLine(CheckGrade(45));
+
+//When guard
+var people = new List<Person>
+{
+    new ("John", "Doe", 44),
+    new ("Saman", "Kumara", 20),
+    new ("Jane", "Doe", 15),
+    new ("Kenuli", "Thesara", 16)
+};
+
+string checkPerson(Person person)
+{
+    return person switch
+    {
+        {Age: var age} when age < 18 => "Minor person",
+        _ => "Adult"
+    };
+}
+
+foreach(var p in people)
+{
+    Console.WriteLine(checkPerson(p));
+}
+
+record Person(string FirstName, string LastName, int Age);
