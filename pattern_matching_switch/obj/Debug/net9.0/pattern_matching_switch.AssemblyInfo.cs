@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pattern_matching_switch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87710f7c543e2938b19b404bb5adb2f07186df01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd7f1312b33ca175a3987d14ece75616a4833560")]
 [assembly: System.Reflection.AssemblyProductAttribute("pattern_matching_switch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pattern_matching_switch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

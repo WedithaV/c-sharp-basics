@@ -51,3 +51,15 @@ foreach(var num1 in numbers1)
     };
     Console.WriteLine(result);
 }
+
+
+
+
+//Logical pattern
+string CheckGrade(int m) => m switch{
+    < 15  => "Your grade if F",
+    15 >= and < 35 => "Your grade is W",
+    35 >= and <55 => "Your grade is C",
+};
+
+Console.WriteLine(CheckGrade(45));
